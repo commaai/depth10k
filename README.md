@@ -9,7 +9,7 @@ It's ~10,000 PNGs of real driving from comma 3. 3 frames in time order, with 50m
 It's [comma10k](https://github.com/commaai/comma10k), but for depthnets instead of segnets
 
 A great dataset for training unsupervised depthnets on. We've tried:
-* [depth_and_motion_learnin](https://github.com/google-research/google-research/tree/master/depth_and_motion_learning)
+* [depth_and_motion_learning](https://github.com/google-research/google-research/tree/master/depth_and_motion_learning)
 * [monodepth2](https://github.com/nianticlabs/monodepth2)
 
 and gotten decent results with both. Though they struggle with cars moving a similar speed to you.
