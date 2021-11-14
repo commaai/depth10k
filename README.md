@@ -1,6 +1,6 @@
 # depth10k
 
-It's ~10,000 PNGs of real driving from comma 3. 3 frames in time order, with 50ms between them. MIT license
+It's ~10,000 PNGs of real driving from comma three. 3 frames in time order, with 50ms between them. MIT license
 
 ![Alt](imgs/00748_f_2061c2bef508176e_2021-09-21--15-19-15_15_392.png)
 ![Alt](imgs/00921_f_7aae592fc08e895f_2021-06-20--23-16-32_5_18.png)
@@ -15,4 +15,3 @@ A great dataset for training unsupervised depthnets on. We've tried:
 and gotten decent results with both. Though they struggle with cars moving a similar speed to you.
 
 We also ran our segnet on them, outputs in segs/. Might be useful for masking motion.
-
